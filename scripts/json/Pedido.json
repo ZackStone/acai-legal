@@ -1,7 +1,9 @@
 {
-    "Tamanho": "",
-    "Sabor": "",
-    "TempoDePreparo": "",
-    "PrecoTotal": "",
-    "Adicionais": []
+    "TamanhoId": "57de6aa0-4f9a-46f3-c842-08d7dd715599",
+    "SaborId": "bd7e06ab-54ff-4c94-6e0b-08d7dd71b704",
+    "Adicionais": [
+        "2d544262-135e-493b-684a-08d7dd723144",
+        "45a076f3-8802-456f-684c-08d7dd723144",
+        "63a39e06-529d-494f-684b-08d7dd723144"
+    ]
 }
