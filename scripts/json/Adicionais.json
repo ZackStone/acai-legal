@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Leite Ninho",
+        "Preco": 3
+    },
+    {
+        "label": "Granola"
+    },
+    {
+        "label": "Paçoca",
+        "Preco": 3,
+        "TempoDePreparo": 3
+    }
+]

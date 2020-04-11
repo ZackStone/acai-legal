@@ -1,0 +1,12 @@
+[
+    {
+        "Label": "Morango"
+    },
+    {
+        "Label": "Banana"
+    },
+    {
+        "Label": "Kiwi",
+        "TempoDePreparo": 5
+    }
+]

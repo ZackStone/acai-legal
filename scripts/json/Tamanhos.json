@@ -1,0 +1,20 @@
+[
+    {
+        "Label": "Pequeno",
+        "TamanhoMl": "300",
+        "Preco": 10,
+        "TempoDePreparo": 5
+    },
+    {
+        "Label": "Médio",
+        "TamanhoMl": "500",
+        "Preco": 13,
+        "TempoDePreparo": 7
+    },
+    {
+        "Label": "Grande",
+        "TamanhoMl": "700",
+        "Preco": 15,
+        "TempoDePreparo": 10
+    }
+]
