@@ -9,5 +9,5 @@
 
 ## Rodar front-end
 - Navegar até a pasta front-end
+- Instalar dependencias com `npm i`
 - Executar `npm run dev`
-
